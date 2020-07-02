@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 un autre test
 
 ## How To Contribute
+
+### Copyright
+copyright
